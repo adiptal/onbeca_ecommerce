@@ -1,0 +1,20 @@
+{
+  "short_name": "ONBECA",
+  "name": "ONBECA",
+  "icons": [
+    {
+        "src": "/logo.png",
+        "type": "image/png",
+        "sizes": "120x120"
+    },
+    {
+        "src": "/logo-512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#FFF",
+  "display": "standalone",
+  "theme_color": "#FFF"
+}
